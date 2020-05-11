@@ -1,0 +1,4 @@
+Zebra is an Animal.
+Chennai is my city?
+Who are you?
+How are things?
