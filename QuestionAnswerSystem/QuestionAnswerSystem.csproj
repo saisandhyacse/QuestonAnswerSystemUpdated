@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="SentenceDetect\**" />
+    <EmbeddedResource Remove="SentenceDetect\**" />
+    <None Remove="SentenceDetect\**" />
+  </ItemGroup>
+
+</Project>
